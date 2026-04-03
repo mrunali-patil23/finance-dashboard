@@ -1,5 +1,7 @@
 # Finance Dashboard
 
+**Live Demo:** [[Click here to view]((https://finance-dashboard-ivory-psi.vercel.app/))]
+
 A clean, interactive finance dashboard built with React, Tailwind CSS, and Recharts.
 
 ## Tech Stack
